@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Burger Build Application using React
+
+## Purpose
+
+Build out a burger building application that allows users to customize the type of burger they want, checkout, and see their previous orders. 
 
 ## Available Scripts
 
